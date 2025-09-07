@@ -1,2 +1,12 @@
-# AI-note-app
-              这款笔记应用集智能与实用于一体：  1. 智能功能：自动归档、AI内容增强、语音识别输入  2. 高效管理：灵活的文件夹系统、笔记移动功能、多选批量操作  3. 用户友好：简洁界面、快速搜索、多种排序选项  4. 内容丰富：支持Markdown、富文本编辑、图片插入、文本高亮  5. 实用工具：一键分享、内容安全处理、预览功能  基于React和Vite构建，性能优良，启动快速，是一款将现代技术与实用性完美结合的笔记工具，既满足日常记录需求，又提升笔记质量和组织效率。         
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
